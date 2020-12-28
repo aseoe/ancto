@@ -1,2 +1,0 @@
-# ancto
-python test
