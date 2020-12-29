@@ -10,3 +10,4 @@ async def main():
 my_yield = yield_test()
 for item in my_yield:
     print(item)
+
