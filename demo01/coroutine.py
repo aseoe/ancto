@@ -8,6 +8,6 @@ async def main():
     await yield_test()
 
 my_yield = yield_test()
-for item in my_yield:
-    print(item)
+# for item in my_yield:
+#     print(item)
 
